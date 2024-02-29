@@ -1,0 +1,24 @@
+Hardware Automation Test Plan
+
+DUT Configure
+1) Get DUT Information
+2) Configure DUT Work Process
+
+Env 配置
+1) 读取 DUT环境信息
+2) 读取温控设备配置信息
+3) 设置温控设备信息
+4) Check CPU温控情况
+
+Equipments
+1) Connect to equipments
+2) Setup equipment
+3) Run compliance test
+4）Result data process
+5）Save the data to local file
+6）Save the result to Database file
+
+Database
+1) Connect to database
+2) Configure database
+3) Save test result to database
