@@ -30,6 +30,4 @@ def get_hardware_info():
     print("\nBIOS Info:")
     print(bios_info.decode('utf-8'))
 
-
-if __name__ == "__main__":
-    get_hardware_info()
+get_hardware_info()
